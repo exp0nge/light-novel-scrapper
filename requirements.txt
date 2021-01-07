@@ -12,7 +12,7 @@ billiard==3.3.0.22
 celery==3.1.19
 chardet==2.3.0
 cssselect==0.9.1
-gunicorn==0.17.2
+gunicorn==19.5.0
 itsdangerous==0.24
 kombu==3.0.35
 kombu-sqlalchemy==1.1.0
